@@ -1,2 +1,0 @@
-# Increasingly sophisticated sequence prediction
-
